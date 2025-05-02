@@ -3,12 +3,6 @@
 A watchOS dhikr-counter designed to feel as authentic as using a masbaha/tasbeeh.  
 Start with the post-prayer adhkar (“سبحان الله”, “الحمد لله”, “الله أكبر”), and soon choose from other collections like morning and evening adhkar.
 
-## Features
-
-- 
-- Authentic swipe-and-tap UX with subtle haptics  
-- Vector PDF assets for razor-sharp icons and bead graphics  
-
 ## Project Overview
 
 - Digital dhikr with authentic subtle haptics
